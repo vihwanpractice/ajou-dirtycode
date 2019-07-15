@@ -1,4 +1,4 @@
-package ac.kr.ajou.srp;
+package ac.kr.ajou.refactoring;
 
 public class Player {
 
