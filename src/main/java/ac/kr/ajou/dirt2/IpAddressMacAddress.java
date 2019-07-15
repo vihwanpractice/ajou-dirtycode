@@ -1,4 +1,4 @@
-package ac.kr.ajou;
+package ac.kr.ajou.dirt2;
 
 import java.util.HashSet;
 import java.util.Set;

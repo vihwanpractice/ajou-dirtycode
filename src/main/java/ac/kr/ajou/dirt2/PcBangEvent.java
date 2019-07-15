@@ -1,4 +1,4 @@
-package ac.kr.ajou;
+package ac.kr.ajou.dirt2;
 
 public class PcBangEvent {
     private String ip;

@@ -1,5 +1,8 @@
 package ac.kr.ajou;
 
+import ac.kr.ajou.dirt2.IpAddressMacAddress;
+import ac.kr.ajou.dirt2.PcBangEvent;
+
 import java.util.Set;
 
 public class MainApplication {
